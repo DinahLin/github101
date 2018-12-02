@@ -1,3 +1,4 @@
+// add a program for a calculator(+, -, *, /) in C
 #include<stdio.h>
 void Input(){
 printf("Type number to choose the algorithm\n");
